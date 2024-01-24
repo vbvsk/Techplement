@@ -1,5 +1,3 @@
-Certainly! Below is a simple README file for your Python contact management system. It includes instructions on how to run the program and install the required dependencies.
-
 ### Contact Management System
 
 A simple command-line contact management system implemented in Python.
@@ -20,7 +18,7 @@ A simple command-line contact management system implemented in Python.
 1. Clone the repository or download the ZIP file.
 
     ```bash
-    git clone https://github.com/your-username/contact-management-system.git
+    git clone https://github.com/vbvsk/Techplement.git
     ```
 
     or download the ZIP file from the GitHub repository.
@@ -28,7 +26,7 @@ A simple command-line contact management system implemented in Python.
 2. Navigate to the project directory.
 
     ```bash
-    cd contact-management-system
+    cd week1-tasks
     ```
 
 3. Install the required dependencies.
@@ -44,13 +42,13 @@ A simple command-line contact management system implemented in Python.
 1. Run the contact management system script.
 
     ```bash
-    python contact_manager.py
+    python task1.py
     ```
 
     or
 
     ```bash
-    python3 contact_manager.py
+    python3 task1.py
     ```
 
 2. Follow the on-screen menu to perform various operations:
@@ -76,5 +74,3 @@ A simple command-line contact management system implemented in Python.
     ```bash
     pip install prettytable
     ```
-
-Feel free to customize the README file further based on your preferences or project details.
