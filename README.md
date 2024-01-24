@@ -26,7 +26,7 @@ A simple command-line contact management system implemented in Python.
 2. Navigate to the project directory.
 
     ```bash
-    cd week1-tasks
+    cd Techplement/week1-tasks
     ```
 
 3. Install the required dependencies.
